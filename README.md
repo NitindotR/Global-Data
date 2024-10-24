@@ -18,9 +18,8 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
-[![image]([https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png](https://drive.google.com/file/d/1skOweadShwfpWCIaVOkAq9JRy5H7t_ia/view?usp=share_link))]
+Effect of GDP per capital on Life expectancy: This sketch is an idea to check how life expectancy is behaving with increasing GDP percapita
+![GDP per capital vs Life expectancy](https://github.com/user-attachments/assets/39097ce0-14ef-4614-8451-6cd0d958afda)
 
 
 
