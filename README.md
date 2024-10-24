@@ -19,7 +19,25 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 Effect of GDP per capital on Life expectancy: This sketch is an idea to check how life expectancy is behaving with increasing GDP percapita
+
+
 ![GDP per capital vs Life expectancy](https://github.com/user-attachments/assets/39097ce0-14ef-4614-8451-6cd0d958afda)
+
+
+
+CO2 Emission by region and country: This sketch is an idea of visualizing the CO2 emmisions using a sunburst chart
+
+
+![CO2 emission by region and country](https://github.com/user-attachments/assets/191c3d6a-21fb-4a3d-9072-7bddccfb3a94)
+
+
+
+GDP Contribution by region and country: This sketch is an idea of the contribution of different regions and countries to GDP. A dropdown can be added to check contributions to different variables such as Population, GDP growth, Unemployment, Life expectancy, CO2 emissions, etc. 
+
+
+![GDP Contribution by region and country](https://github.com/user-attachments/assets/61f7e3d8-4340-410d-b635-06c4581b096c)
+
+
 
 
 
