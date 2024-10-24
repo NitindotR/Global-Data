@@ -2,22 +2,26 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is 'Global Data: GDP, Life Expectancy & More'
+link to the dataset: https://www.kaggle.com/datasets/arslaan5/global-data-gdp-life-expectancy-and-more
+
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Is the GDP per capita impacting the life expectancy? How are they behaving when related?
+ * What are the regions with high CO2 emissions, Which countries in the particular region are contributing the most?
+ * What is the distribution of GDP contribution by region and country?
+ * What is the average life expectancy of different regions and what is the gender-wise contribution to it?
 
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+[![image]([https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png](https://drive.google.com/file/d/1skOweadShwfpWCIaVOkAq9JRy5H7t_ia/view?usp=share_link))]
+
 
 
 ## Prototypes
