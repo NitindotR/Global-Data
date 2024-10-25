@@ -47,7 +47,7 @@ I’ve created a proof of concept visualization for my first sketch: Relationshi
 
 [![image](https://github.com/user-attachments/assets/61bebcb7-f4d7-4db5-9ad9-05652d61a2ea)](https://vizhub.com/NitindotR/e8190a079a09434a80f368f120c1cce7?mode=embed)
 
-```
+
 
 ## Open Questions
 
