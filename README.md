@@ -47,23 +47,13 @@ I’ve created a proof of concept visualization for my first sketch: Relationshi
 
 [![image](https://github.com/user-attachments/assets/61bebcb7-f4d7-4db5-9ad9-05652d61a2ea)](https://vizhub.com/NitindotR/e8190a079a09434a80f368f120c1cce7?mode=embed)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
 ```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am new to learning D3 and I am not sure how heavy the workload is for the visualizations I am aiming. I am taking this challenge and working on it.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+  - By the end of this week, I would start working on the sunburst chart.
+  - Finish the sunburst chart by next week and start learning to create a treemap.
