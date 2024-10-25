@@ -55,5 +55,5 @@ I am new to learning D3 and I am not sure how heavy the workload is for the visu
 
 ## Milestones
 
-  - By the end of this week, I would start working on the sunburst chart.
-  - Finish the sunburst chart by next week and start learning to create a treemap.
+  - By the end of Week 9, I would start working on the sunburst chart.
+  - Finish the sunburst chart by next week(Week 10) and start learning to create a treemap.
