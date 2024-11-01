@@ -47,6 +47,11 @@ I’ve created a proof of concept visualization for my first sketch: Relationshi
 
 [![image](https://github.com/user-attachments/assets/61bebcb7-f4d7-4db5-9ad9-05652d61a2ea)](https://vizhub.com/NitindotR/e8190a079a09434a80f368f120c1cce7?mode=embed)
 
+A prototype of a Sunburst chart using javaScript and some methods from D3 package.I am working on adding practical data to the code and use more d3 methods replacing the usual javaScript elements.
+
+[![image](https://github.com/user-attachments/assets/e440faba-893a-49a5-ad7a-b74e03632c47)](https://vizhub.com/NitindotR/sunburst)
+
+
 
 
 ## Open Questions
