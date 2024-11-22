@@ -71,5 +71,12 @@ I am new to learning D3 and I am not sure how heavy the workload is for the visu
 [![image](https://github.com/user-attachments/assets/fb6ccee1-0d5e-4dd3-acda-79bbc0f0494e)](https://vizhub.com/NitindotR/sunbursttop3)
 
 
+- Added interactivity to the scatter plot done before. Interaction added to the color legend with mouse actions.
+
+
+[![image](https://github.com/user-attachments/assets/660afcbc-c10a-47d5-89f9-8437998b8c8d)](https://vizhub.com/NitindotR/global-scatter)
+
+
+
 
 
