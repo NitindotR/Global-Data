@@ -60,7 +60,13 @@ I am new to learning D3 and I am not sure how heavy the workload is for the visu
 
 ## Milestones
 
-  - I have created an interactive sunburst chart of regions on the first level and countries on the second level. the distribution of area according to the co2 emmisions by the countries.
+  - I have created an interactive sunburst chart of regions on the first level and countries on the second level. the distribution of area according to the co2 emissions by the countries.
+    The sunburst chart shows the name of the region/name of the country and the co2 emissions in millions of metric tonnes when hovered.
+  - I Intially included the whole data but the visualization did not look impressive. It looked complex. So, I limited the chart to the top 3 regions with most co2 emissions.
+
+
+[![image](https://github.com/user-attachments/assets/7f74720e-c050-436f-9ce1-79737f9c6346)](https://vizhub.com/NitindotR/sunburst-whole)
+
 
 [![image](https://github.com/user-attachments/assets/2801ee5c-d654-4007-b6ac-5d01e579d9cf)](https://vizhub.com/NitindotR/sunbursttop3)
 
