@@ -60,5 +60,8 @@ I am new to learning D3 and I am not sure how heavy the workload is for the visu
 
 ## Milestones
 
-  - By the end of Week 9, I would start working on the sunburst chart.
-  - Finish the sunburst chart by next week(Week 10) and start learning to create a treemap.
+  - I have created an interactive sunburst chart of regions on the first level and countries on the second level. the distribution of area according to the co2 emmisions by the countries.
+
+[![image](https://github.com/user-attachments/assets/2801ee5c-d654-4007-b6ac-5d01e579d9cf)](https://vizhub.com/NitindotR/sunbursttop3)
+
+
