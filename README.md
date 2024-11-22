@@ -68,6 +68,8 @@ I am new to learning D3 and I am not sure how heavy the workload is for the visu
 [![image](https://github.com/user-attachments/assets/7f74720e-c050-436f-9ce1-79737f9c6346)](https://vizhub.com/NitindotR/sunburst-whole)
 
 
-[![image](https://github.com/user-attachments/assets/2801ee5c-d654-4007-b6ac-5d01e579d9cf)](https://vizhub.com/NitindotR/sunbursttop3)
+[![image](https://github.com/user-attachments/assets/fb6ccee1-0d5e-4dd3-acda-79bbc0f0494e)](https://vizhub.com/NitindotR/sunbursttop3)
+
+
 
 
