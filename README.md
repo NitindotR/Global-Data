@@ -2,8 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is 'Global Data: GDP, Life Expectancy & More'
-link to the dataset: https://www.kaggle.com/datasets/arslaan5/global-data-gdp-life-expectancy-and-more
+The data I propose to visualize for my project is ['Global Data: GDP, Life Expectancy & More'](https://www.kaggle.com/datasets/arslaan5/global-data-gdp-life-expectancy-and-more)
 
 
 
