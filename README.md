@@ -52,10 +52,10 @@ A prototype of a Sunburst chart using javaScript and some methods from D3 packag
 
 
 
-## Milestones
+## Progression
 
   - I have created an interactive sunburst chart of regions on the first level and countries on the second level. the distribution of area according to the co2 emissions by the countries.
-    The sunburst chart shows the name of the region/name of the country and the co2 emissions in millions of metric tonnes when hovered.
+    The sunburst chart shows the name of the region/name of the country and the co2 emissions in metric tons when hovered.
   - I Intially included the whole data but the visualization did not look impressive. It looked complex. So, I limited the chart to the top 3 regions with most co2 emissions.
 
 
@@ -69,6 +69,27 @@ A prototype of a Sunburst chart using javaScript and some methods from D3 packag
 
 
 [![image](https://github.com/user-attachments/assets/660afcbc-c10a-47d5-89f9-8437998b8c8d)](https://vizhub.com/NitindotR/global-scatter)
+
+
+- I made a map showing the top 10 countries with most CO2 emissions. I also added an interactive effect. Hovering the mouse pointer over the highlighted country in the world map, It     displays the value of the CO2 emissions in metric tons
+
+  [![image](https://github.com/user-attachments/assets/5a4951df-25e1-48d4-aa9e-864700127b69)](https://vizhub.com/NitindotR/world-map)
+
+  <img width="945" alt="Screenshot 2024-12-08 at 2 49 30 PM" src="https://github.com/user-attachments/assets/88fd7f72-0884-4da8-9947-6bbffd25398d">
+
+
+
+- I enhanced the sunburst chart, added a dropdown to select the region, the chart is updated according to the selected region. I also enhanced the interactivity adding a tooltip to display the details when hovered.
+
+[![image](https://github.com/user-attachments/assets/41ea9595-cc78-46e2-810a-9f5dce656a33)](https://vizhub.com/NitindotR/34d6049582d44cb8b10e1557fb3e4023)
+
+<img width="1512" alt="Screenshot 2024-12-07 at 11 03 19 PM" src="https://github.com/user-attachments/assets/140214c1-4f9d-4c3b-b087-01befffc5a44">
+<img width="1512" alt="Screenshot 2024-12-07 at 11 03 39 PM" src="https://github.com/user-attachments/assets/5897a382-7618-499f-a553-cfd7a29fa8ae">
+<img width="1512" alt="Screenshot 2024-12-07 at 11 04 12 PM" src="https://github.com/user-attachments/assets/5475993a-8f55-4882-8444-27dea928f6b1">
+
+
+
+
 
 
 
