@@ -88,6 +88,15 @@ A prototype of a Sunburst chart using javaScript and some methods from D3 packag
 <img width="1512" alt="Screenshot 2024-12-07 at 11 04 12 PM" src="https://github.com/user-attachments/assets/5475993a-8f55-4882-8444-27dea928f6b1">
 
 
+- I created a treemap, added a dropdown to choose the metric on which the treemap has to be adjusted. It is initially CO2 emissions distribution among the regions and countries. The title is also changed based on the metric chosen from the dropdown. The region rectangles have a black border which makes the region division clear.
+- Interactivity is added to the treemap with a tooltip containing the details of the block displayed when hovered onto.
+
+
+[![image](https://github.com/user-attachments/assets/3515aa0f-ca8b-4354-8d6c-48b8d9368060)](https://vizhub.com/NitindotR/treemap)
+
+<img width="1512" alt="Screenshot 2024-12-07 at 10 53 16 PM" src="https://github.com/user-attachments/assets/aac2fc55-37d8-4287-86ed-612f8143207c">
+
+
 
 
 
