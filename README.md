@@ -14,7 +14,6 @@ The following tasks and questions will drive the visualization and interaction d
  * Is the GDP per capita impacting the life expectancy? How are they behaving when related?
  * What are the regions with high CO2 emissions, Which countries in the particular region are contributing the most?
  * What is the distribution of GDP contribution by region and country?
- * What is the average life expectancy of different regions and what is the gender-wise contribution to it?
 
 ## Sketches
 
@@ -53,10 +52,6 @@ A prototype of a Sunburst chart using javaScript and some methods from D3 packag
 
 
 
-
-## Open Questions
-
-I am new to learning D3 and I am not sure how heavy the workload is for the visualizations I am aiming. I am taking this challenge and working on it.
 
 ## Milestones
 
