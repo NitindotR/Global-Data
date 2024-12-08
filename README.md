@@ -103,6 +103,14 @@ Interactivity is added to the treemap with a tooltip containing the details of t
 <img width="1512" alt="Screenshot 2024-12-07 at 10 53 16 PM" src="https://github.com/user-attachments/assets/aac2fc55-37d8-4287-86ed-612f8143207c">
 
 
+## Future Improvements
+
+Sunburst chart: Enable selection of metrics like GDP, population, or other related data.
+Treemap: Add the ability to filter data by specific regions or countries.
+
+
+
+
 
 
 
